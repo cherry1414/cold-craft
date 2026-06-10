@@ -1,4 +1,4 @@
-# SalesBot AI
+# cold-craft
 
 AI-powered sales automation agent. Enter a company name and target role — three AI agents research the company, write a hyper-personalised cold email, and build a full follow-up sequence in seconds.
 
